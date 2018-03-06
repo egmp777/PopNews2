@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsPlicity</string>
+    <string name="algo_summarization_url">nlp/Summarizer/0.1.3</string>
+    <string name="algo_url2text_url">util/Html2Text/0.1.6</string>
+    <string name="summary_label">NewsPlicity</string>
+    <string name="error_message">Oops...An error has occured</string>
+</resources>
