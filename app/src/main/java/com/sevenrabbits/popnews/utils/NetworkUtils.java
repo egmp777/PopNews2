@@ -91,6 +91,7 @@ public class NetworkUtils {
         } finally {
             urlConnection.disconnect();
         }
+
     }
     /**
      * This mmethod checks if there is network availability
